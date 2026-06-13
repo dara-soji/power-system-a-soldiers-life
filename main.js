@@ -1,4 +1,4 @@
-
+//We need to add somtning elsi tobthis app
 // use object factory to create humans with essence
 const createHuman = (name) => {
     return {
